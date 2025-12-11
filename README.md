@@ -1,6 +1,8 @@
 # UCAS-2025-Blockchain-Final-Project-BTC
 ---
 
+ucas区块链期末大作业选题3
+
 本仓库包含一个用于研究 **比特币挖矿中的不公平策略（Selfish Mining、MEV、ASIC集中化、跨链攻击等）** 及 **多层防御机制** 的完整仿真平台。
 
 ---
