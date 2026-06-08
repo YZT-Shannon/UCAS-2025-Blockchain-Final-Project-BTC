@@ -15,7 +15,6 @@ ucas区块链期末大作业选题3
 * [包含的攻击模型](#包含的攻击模型)
 * [包含的防御模型](#包含的防御模型)
 * [核心功能示例](#核心功能示例)
-* [许可证](#许可证)
 
 ---
 
@@ -173,9 +172,5 @@ print(with_def.efficiency_advantage)
 sweep = parameter_sweep_analysis(0.1, 0.4, 7)
 print(sweep["optimal_alpha"])
 ```
-
-## 许可证
-
-本项目可在 MIT 协议下自由使用、修改和分发。
 
 ---
